@@ -1,7 +1,5 @@
 ### WakaTime
 
-<figure><embed src="https://wakatime.com/share/@stranger568/ad549fde-f820-48c1-80af-33601d764c8b.svg"></embed></figure>
-
 <!--START_SECTION:waka-->
 
 ```txt
